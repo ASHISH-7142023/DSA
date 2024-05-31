@@ -1,4 +1,4 @@
-package labassignment1;
+2package labassignment1;
 import java.util.Scanner;
 public class Q10 {
 	public static double sumColumn(double[][] m, int columnIndex){
